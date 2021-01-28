@@ -1,0 +1,3 @@
+rootProject.name='mibeo'
+include ':app'
+include ':utils'
